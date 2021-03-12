@@ -1,0 +1,63 @@
+/**
+ * TP2
+ * IFT3225: Technologie de l'internet
+ * Ikram Djafri 20064328
+ * Ines Ayari 20057529
+ */
+
+html,body {  /* http://murphy.cz/victoria-s-vertical-centering/ */
+    height:100%;
+    text-align:center;
+}
+
+
+table {
+    margin-left:auto; margin-right:auto;
+    font-size:25pt;
+    font-weight: bold;
+    background-color: #C28FCE;
+    font-family: monospace, "MS Trebuchet";
+    border: 40px;
+}
+
+tr {
+    margin: 0px;
+    background-color:grey;
+    color: #EEC7F7;
+    text-align: right;
+    height: 50px;
+    padding: 5px 0px;
+    max-width:300px;
+    border: 5px;
+}
+
+td {
+    margin: auto auto;
+    background-color: #EEC7F7;
+    color: #9012A5;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+    width:75px;
+    border: 5px;
+}
+
+h1 {
+    color: #9012A5;
+    font-size: 3em;
+}
+
+
+#nbDeplacements {
+    background-color : #BBADA0;
+    height: 30px;
+    width:60px;
+    margin: auto;
+    padding-top: 13px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    
+    
+   
+    
+}
